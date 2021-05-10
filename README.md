@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome to my GitHub repos! 👋
 
 <!--
 **s-bai/s-bai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
